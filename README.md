@@ -14,4 +14,4 @@ Hit me up:
 - Day 1 - 6/28/2019: demo1.py: A simple 4-panel color display. A lot of this was ripped out of a previous project template, but is organized well enough that it can be grafted onto easily.
 - Day 2 - 6/29/2019: demo2.py: Renders a randomly-colored 20x20 square that follows the mouse cursor. When clicked, cycles thru other random-colors.
     - *9:12pm*: I have an idea that I'm gonna add onto this right now! Will blog when done...
-
+    - *10:35pm*: Squares of different sizes and colors will spawn on the right and move left on the screen. The player can collide with them. If the player's color matches the enemy square color, you get points. If not, you lose points.
