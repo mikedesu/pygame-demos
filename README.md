@@ -15,3 +15,6 @@ Hit me up:
 - Day 2 - 6/29/2019: demo2.py: Renders a randomly-colored 20x20 square that follows the mouse cursor. When clicked, cycles thru other random-colors.
     - *9:12pm*: I have an idea that I'm gonna add onto this right now! Will blog when done...
     - *10:35pm*: Squares of different sizes and colors will spawn on the right and move left on the screen. The player can collide with them. If the player's color matches the enemy square color, you get points. If not, you lose points.
+
+[Video here](https://youtu.be/48Bou6GnWFM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/48Bou6GnWFM/0.jpg)](https://www.youtube.com/watch?v=48Bou6GnWFM)
