@@ -15,3 +15,9 @@ Hit me up:
 - Day 2 - 6/29/2019: demo2.py: Renders a randomly-colored 20x20 square that follows the mouse cursor. When clicked, cycles thru other random-colors.
     - *9:12pm*: I have an idea that I'm gonna add onto this right now! Will blog when done...
     - *10:35pm*: Squares of different sizes and colors will spawn on the right and move left on the screen. The player can collide with them. If the player's color matches the enemy square color, you get points. If not, you lose points.
+- Day 3 - 6/30/2019: Tutoring workday! If I have energy later, will be doing code for these demos eventually... 
+    - Student 1: C++ student, optimizing a 5-loop filter system that applies filters to bmp files, day 2 of that project
+    - Student 2: Intro CS with Java, basic binary arithmetic
+    - Student 3: Intro CS with Python, anaconda setup
+    - kinda dead atm and lacking the focus, but I can consider that I did "code" today, blargh! :E 
+
