@@ -21,4 +21,60 @@ Hit me up:
     - Student 2: Intro CS with Java, basic binary arithmetic
     - Student 3: Intro CS with Python, anaconda setup
     - kinda dead atm and lacking the focus, but I can consider that I did "code" today, blargh! :E 
+- Day 4 - 7/1/2019: Tutoring workday! I ended up messing with another Python project for bug bounties last night via requests but I'll have to re-name this repo etc before I can add in my work there to here. I mistakenly thought I'd only be self-coding pygame stuff but here we are.
+    - Student 1: C++ and BSTs, really classic stuff. Node pointers, tree traversals, recursion!
+    - Student 2: C++ and Arduino, implementing a beeper system. Today is a lot of digital UI stuff. Input handling. Menu display.
+    - Student 3: Python. Showed student my work from day1 and day 2 line-by-line. 
+    - Student 4: C++. Near-1000-line rpg project.
+- Day 5 - 7/2/2019: Tutoring workday! 
+    - Student 1: This is not a programming student. Dude needs help writing his Cybersecurity Master's "Capstone" project. Normally, I'm not an English teacher or tutor, but this dude needed the help, and I need the money.
+    - Student 2: Java. Valid identifiers. 
 
+    ```
+ public class HelloWorld {
+    public static void main(String[] args) {
+        //int 4Bfort$;
+        int B_Fort$;
+        int $_4;
+        //int B-b34;
+        //int For Honor;
+    }
+}   
+    ```
+
+    - Student 3: Python. Student was not prepared and we decided to reconvene later.
+- Day 6 - 7/3/2019: Tutoring workday!
+    - Student 1: Python.
+    - Student 2: Web dev. This was...well, lets say I may have a lot less adhd that this guy.
+- Day 7 - 7/4/2019: Happy Independence Day!
+    - No coding today (oh no!) but as it is a holiday I am not counting this against me and continuing the next day.
+- Day 8 - 7/5/2019: Tutoring workday!
+    - Student 1: Java. EE student in intro CS.
+        - loops
+        - arrays
+        - if-else statements
+        - methods
+        - searching
+        - sorting
+        - exception-handling
+    - Student 2: Java.
+    - Student 3: Infosec.
+- Day 9 - 7/6/2019: Tutoring workday!
+    - Student 1: C and forking and pipes! Fun stuff!
+    - Student 2: Basic C++. File IO, frequency charts, histograms.
+- Day 10 - 7/7/2019: Tutoring workday!
+    - Student 1: C++.
+    - Student 2: Infosec.
+    - Student 3: Java.
+- Day 11 - 7/8/2019: Tutoring workday!
+    - Student 1: Python
+    - Student 2: C++.
+- Day 12 - 7/9/2019: Tutoring workday!
+    - Student 1: C++.
+    - Student 2: Infosec.
+    - Student 3: C.
+    - Student 4: C++.
+- Day 13 - 7/10/2019: Tutoring workday!
+    - Student 1: C++.
+    - Student 2: C++. 
+    - demo3.py: Turns out I had a bug in my demo1.py and demo2.py that caused the game loop to hang/freeze when you pressed the 'q' key to quit, but I've sinced built this "bare-bones" skeleton code for new projects in pygame, complete with a debug-panel built in already!

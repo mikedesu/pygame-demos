@@ -4,7 +4,7 @@ import time
 import threading
 from random import randint 
 
-scale = 1
+scale = 2
 window_width = 320 * scale
 window_height = 240 * scale
 
@@ -102,7 +102,7 @@ def update_enemies():
         i += 1
 
 def draw_enemies():
-    global enemies, enemy_size
+    global enemies
     for enemy in enemies:
         x = enemy[0]
         y = enemy[1]
@@ -112,7 +112,6 @@ def draw_enemies():
 
 def setup_font():
     global font
-    font = pygame.font.Font("Terminus.ttf", 16)
 
 def draw_debug_panel():
     global display
