@@ -78,3 +78,9 @@ Hit me up:
     - Student 1: C++.
     - Student 2: C++. 
     - demo3.py: Turns out I had a bug in my demo1.py and demo2.py that caused the game loop to hang/freeze when you pressed the 'q' key to quit, but I've sinced built this "bare-bones" skeleton code for new projects in pygame, complete with a debug-panel built in already!
+- Day 14 - 7/11/2019: Tutoring workday!
+    - Student 1: Java.
+    - Student 2: Python. 
+    - Student 3: C++. 
+
+
