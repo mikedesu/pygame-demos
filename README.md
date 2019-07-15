@@ -2,7 +2,7 @@
 
 I decided to start doing this for \#100daysofcode.
 
-Will be blogging about it here. Easier than posting to my website, which will be going down and rebuilt as a flask-app soon anyway.
+Will be blogging about it here. 
 
 Hit me up: 
 
@@ -82,5 +82,15 @@ Hit me up:
     - Student 1: Java.
     - Student 2: Python. 
     - Student 3: C++. 
-
+- Day 15 - 7/12/2019: Tutoring workday! Also TGIF!
+    - Student 1: C++. "Duck typing". 
+- Day 16 - 7/13/2019: Tutoring workday!
+    - Student 1: Java.
+- Day 17 - 7/14/2019: Tutoring workday!
+    - Student 1: Java.
+    - Student 2: Security.
+- Day 18 - 7/15/2019: Tutoring workday!
+    - Student 1: C++.
+    - Student 2: C++.
+    - Student 3: C++.
 
