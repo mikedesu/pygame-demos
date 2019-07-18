@@ -30,7 +30,7 @@ Hit me up:
     - Student 1: This is not a programming student. Dude needs help writing his Cybersecurity Master's "Capstone" project. Normally, I'm not an English teacher or tutor, but this dude needed the help, and I need the money.
     - Student 2: Java. Valid identifiers. 
 
-    ```
+```
  public class HelloWorld {
     public static void main(String[] args) {
         //int 4Bfort$;
@@ -40,7 +40,7 @@ Hit me up:
         //int For Honor;
     }
 }   
-    ```
+```
 
     - Student 3: Python. Student was not prepared and we decided to reconvene later.
 - Day 6 - 7/3/2019: Tutoring workday!
