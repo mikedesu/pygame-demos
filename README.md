@@ -93,4 +93,14 @@ Hit me up:
     - Student 1: C++.
     - Student 2: C++.
     - Student 3: C++.
+    - Finally got to work on actually animating and moving sprites! Really basic, just cycles in a loop, but next step would be to incorporate spritesheeds and different animation contexts.
+- Day 19 - 7/16/2019: Tutoring workday!
+    - Student 1: Java.
+    - Student 2: Java.
+    - Student 3: C++.
+- Day 20 - 7/17/2019: Day off!!
+- Day 20 - 7/18/2019: Tutoring workday! Since I did no coding yesterday, I am still on day 20.
+    - Student 1: Java. 
+    - Student 2: C++.
+    - demo5.py: I've fixed a sprite clipping problem at the same time as implemented animation spritesheets! The animation is still simple, but I have the groundwork to dig into animating multiple contexts such as movement or attacking.
 
