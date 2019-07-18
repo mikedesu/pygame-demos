@@ -29,6 +29,7 @@ Hit me up:
 - Day 5 - 7/2/2019: Tutoring workday! 
     - Student 1: This is not a programming student. Dude needs help writing his Cybersecurity Master's "Capstone" project. Normally, I'm not an English teacher or tutor, but this dude needed the help, and I need the money.
     - Student 2: Java. Valid identifiers. 
+    - Student 3: Python. Student was not prepared and we decided to reconvene later.
 
 ```
  public class HelloWorld {
@@ -42,7 +43,6 @@ Hit me up:
 }   
 ```
 
-    - Student 3: Python. Student was not prepared and we decided to reconvene later.
 - Day 6 - 7/3/2019: Tutoring workday!
     - Student 1: Python.
     - Student 2: Web dev. This was...well, lets say I may have a lot less adhd that this guy.
