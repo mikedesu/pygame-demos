@@ -5,19 +5,63 @@ class AnimatedSprite(pygame.sprite.Sprite):
         super(AnimatedSprite, self).__init__()
         
         size = (32, 32)
-        self.rect = pygame.Rect(position, size)
-        #self.rect = (16,16)
 
-        self.images = images 
-        self.images_right = images
-        self.images_left = [pygame.transform.flip(image, True, False) for image in images]
+        # experimenting with adding multiple animations
+        self.current_animation = 0
+        self.total_animations = 5
+
+        self.rect = pygame.Rect(position, size)
+
+        self.animations = images
+        self.images = self.animations[self.current_animation] 
+        
+        self.images_right = self.animations[self.current_animation]
+        
+        self.images_left = [pygame.transform.flip(image, True, False) for image in self.animations[self.current_animation]]
+
         self.index = 0
-        self.image = images[self.index]
+
+        self.image = self.animations[self.current_animation][self.index]
+        
         self.velocity = pygame.math.Vector2(0,0)
+        
         self.animation_time = 0.1
+        
         self.current_time = 0
-        self.animation_frames = 1
+        
+        self.animation_frames = 4
+        
         self.current_frame = 0
+
+    def set_current_animation(self):
+
+        # 0 = default
+        # 1 = boosters on up
+        # 2 = boosters on down
+        # 3 = boosters left and up
+        # 4 = boosters left and down
+        index = -1
+        if self.velocity.y == 0:
+            index = 0
+        elif self.velocity.x == 0 and self.velocity.y > 0:
+            index = 1
+        elif self.velocity.x == 0 and self.velocity.y < 0:
+            index = 2
+        elif self.velocity.y > 0:
+            index = 4
+        elif self.velocity.y < 0:
+            index = 3
+        else:
+            index = 0
+
+        if index >= 0 and index < self.total_animations:
+            self.current_animation = index
+            self.images = self.animations[self.current_animation] 
+            self.images_right = self.animations[self.current_animation]
+            self.images_left = [pygame.transform.flip(image, True, False) for image in self.animations[self.current_animation]]
+        else:
+            print(f"Error: set_current_animation() index {index} out of range")
+
 
     def update_time_dependent(self, dt):
         if self.velocity.x > 0:

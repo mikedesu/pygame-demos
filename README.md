@@ -99,8 +99,27 @@ Hit me up:
     - Student 2: Java.
     - Student 3: C++.
 - Day 20 - 7/17/2019: Day off!!
-- Day 20 - 7/18/2019: Tutoring workday! Since I did no coding yesterday, I am still on day 20.
+- Day 21 - 7/18/2019: Tutoring workday! Since I did no coding yesterday, I am still on day 20.
     - Student 1: Java. 
     - Student 2: C++.
     - demo5.py: I've fixed a sprite clipping problem at the same time as implemented animation spritesheets! The animation is still simple, but I have the groundwork to dig into animating multiple contexts such as movement or attacking.
+- Day 22 - 7/19/2019: I was hospitalized this day for a GERD-related incident (damn you, sesame chicken from Lucky Wok!) so no coding this day...
+- Day 23 - 7/20/2019: Recovery day...will make these days up
+- Day 24 - 7/21/2019: Tutoring workday!
+    - Student 1: Infosec.
+    - Student 2: Java.
+- Day 25 - 7/22/2019: Tutoring workday!
+    - Student 1: Infosec.
+    - Student 2: C++.
+    - Student 3: C++.
+- Day 26 - 7/23/2019: Tutoring workday!
+    - Student 1: Java.
+    - Student 2: C++.
+    - I have time before my students, so I'll be working on a few things in a new file today: demo6.py
+        - Simpler movement
+        - Multiple animation contexts per sprite
+    - Todo still:
+        - Fire a blast
+        - Generate an enemy
+        - Collision
 
