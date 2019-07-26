@@ -122,4 +122,14 @@ Hit me up:
         - Fire a blast
         - Generate an enemy
         - Collision
+- Day 27 - 7/24/2019: Tutoring workday!
+    - Student 1: Infosec.
+    - Student 2: C++.
+    - Student 3: C++.
+- Day 28 - 7/25/2019: Tutoring workday!
+    - Student 1: Infosec.
+    - Student 2: Java.
+- Day 29 - 7/26/2019: Tutoring workday! Also TGIF!
+    - demo7.py: I've added a cool-looking asteroid and modified how spritesheets get loaded. Now, I can create arbitrary spritesheets and easily cut them up by specifying how many frames PER animation, as well as the total number of frames.
+    - Student 1: C++.
 
