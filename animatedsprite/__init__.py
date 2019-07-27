@@ -48,7 +48,7 @@ class AnimatedSprite(pygame.sprite.Sprite):
             self.images_right = self.animations[self.current_animation]
             self.images_left = [pygame.transform.flip(image, True, False) for image in self.animations[self.current_animation]]
         else:
-            print(f"Error: set_current_animation() index {index} out of range")
+            print(f"Error: set_current_animation() index {self.index} out of range")
 
 
     def update_time_dependent(self, dt):
